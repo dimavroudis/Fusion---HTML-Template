@@ -18,8 +18,8 @@
         "browserify": "^17.0.0",
         "gulp": "^4.0.2",
         "gulp-concat": "^2.6.1",
-        "gulp-sass": "^4.1.0",
-        "node-sass": "^7.0.0",
+        "gulp-sass": "^5.1.0",
+        "node-sass": "^7.0.3",
         "sass": "^1.32.8",
         "vinyl-source-stream": "^2.0.0"
     },
